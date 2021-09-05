@@ -1,0 +1,11 @@
+name: ResourcePackerPlugin
+main: me.marcusslover.resourcepackerplugin.ResourcePackerPlugin
+version: 1.0
+api-version: 1.14
+author: MarcusSlover
+
+commands:
+  itemdata:
+    description: Modyfies CustomModelData of held item.
+    aliases:
+      - id
