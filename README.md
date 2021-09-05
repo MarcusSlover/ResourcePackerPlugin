@@ -1,7 +1,7 @@
-# ResourcePackerPlugin
+# 📦 ResourcePackerPlugin
 A plugin for your Minecraft server specifically designed to be working with [ResourcePacker](https://github.com/MarcusSlover/ResourcePacker).
 
-# Features
+# ✨ Features
 - Configurable server resource pack with advanced settings
 - A way to easily modify `CustomModelData` of items
 - A way to bring UI elements to your world (for things like e.g. posters, signs etc.)
